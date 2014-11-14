@@ -1,0 +1,5 @@
+avconv10 (10.5-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Brion Vibber <brion@pobox.com>  Thu, 13 Nov 2014 23:48:18 -0800
